@@ -1,0 +1,2 @@
+https://teachablemachine.withgoogle.com/models/ADVmnVWUa/
+https://teachablemachine.withgoogle.com/models/ADVmnVWUa/model.json
